@@ -231,7 +231,7 @@ HTML_TEMPLATE = """
             Fast, scalable, and serverless!
         </p>
         
-        <a href="#" class="button" onclick="alert('Hello from Cloud Run 🎉'); return false;">
+        <a href="#" class="button" onclick="alert('Hello from Cloud Run!! 🎉'); return false;">
             Get Started
         </a>
 
