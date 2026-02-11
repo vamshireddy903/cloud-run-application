@@ -227,7 +227,7 @@ HTML_TEMPLATE = """
         </h1>
         
         <p>
-            A simple, beautiful Python Flask application running on Google Cloud Run.
+            A simple, awesome Python Flask application running on Google Cloud Run.
             Fast, scalable, and serverless!
         </p>
         
